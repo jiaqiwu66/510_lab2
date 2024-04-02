@@ -1,4 +1,4 @@
-# Peguin Explore
+# Iris Explore
 
 ## Getting started
 
